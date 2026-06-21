@@ -1,5 +1,5 @@
 .gocache/
 fathers-day.exe
 *.log
-server_out.log
-server_err.log
+project.railwayignore
+*.html
